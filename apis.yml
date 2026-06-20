@@ -2,7 +2,7 @@ aid: neuehealth
 url: https://raw.githubusercontent.com/api-evangelist/neuehealth/refs/heads/main/apis.yml
 name: NeueHealth
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Healthcare
   - Value Based Care
