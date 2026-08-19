@@ -30,7 +30,7 @@ description: >-
   supporting independent providers in performance-based care arrangements.
 created: '2026-05-04'
 modified: '2026-05-04'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: DomainSecurity
     url: security/neuehealth-domain-security.yml
