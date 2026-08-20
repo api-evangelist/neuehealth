@@ -16,6 +16,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/neuehealth.png
 tags:
   - Healthcare
+  - Value-Based Care
+  - Health Insurance
+  - Population Health
+  - ACO
+tags_raw:
+  - Healthcare
   - Value Based Care
   - Health Insurance
   - Population Health
